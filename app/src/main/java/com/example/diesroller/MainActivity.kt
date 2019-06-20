@@ -27,6 +27,5 @@ class MainActivity : AppCompatActivity() {
             else -> R.drawable.dice_6
         }
         imgDispay.setImageResource(drawableResource)
-//        textView.bookauthor = randomInt.toString()
     }
 }
